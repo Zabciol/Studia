@@ -9,12 +9,12 @@ Kazde zdjecie powinno byc linkiem do pelnego pliku i miec podpis z nazwa pliku.
 
 ## Pliki
 
-| Plik            | Opis                                      |
-| --------------- | ----------------------------------------- |
-| `galeria.zip`   | Szablon galerii zawierajacy `index.html`  |
-| `zdjecia/`      | Katalog ze zdjeciami uzywanymi w galerii  |
-| `zadanie10.sh`  | Skrypt generujacy wpisy HTML              |
-| `galeria.html`  | Wynik koncowy - gotowa strona galerii     |
+| Plik           | Opis                                     |
+| -------------- | ---------------------------------------- |
+| `galeria.zip`  | Szablon galerii zawierajacy `index.html` |
+| `zdjecia/`     | Katalog ze zdjeciami uzywanymi w galerii |
+| `zadanie10.sh` | Skrypt generujacy wpisy HTML             |
+| `galeria.html` | Wynik koncowy - gotowa strona galerii    |
 
 ## Rozwiazanie
 
@@ -41,7 +41,14 @@ done > wpisy.txt
 Wygenerowany fragment HTML dla jednego zdjecia ma postac:
 
 ```html
-<div class="responsive"><div class="gallery"><a target="_blank" href="zdjecia/blue.jpg"><img src="zdjecia/blue.jpg"></a><div class="desc">blue.jpg</div></div></div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="zdjecia/blue.jpg"
+      ><img src="zdjecia/blue.jpg"
+    /></a>
+    <div class="desc">blue.jpg</div>
+  </div>
+</div>
 ```
 
 ### 3. Wstawienie wpisow do szablonu

@@ -9,12 +9,12 @@ Wynik nalezy zapisac w jednym archiwum `zdjecia.zip`.
 
 ## Pliki
 
-| Plik           | Opis                                      |
-| -------------- | ----------------------------------------- |
-| `kopie-1.zip`  | Pierwsza czesc danych wejsciowych         |
-| `kopie-2.zip`  | Druga czesc danych wejsciowych            |
-| `zadanie7.sh`  | Skrypt wykonujacy cale przetwarzanie      |
-| `zdjecia.zip`  | Wynik koncowy - zdjecia JPG w archiwum ZIP |
+| Plik          | Opis                                       |
+| ------------- | ------------------------------------------ |
+| `kopie-1.zip` | Pierwsza czesc danych wejsciowych          |
+| `kopie-2.zip` | Druga czesc danych wejsciowych             |
+| `zadanie7.sh` | Skrypt wykonujacy cale przetwarzanie       |
+| `zdjecia.zip` | Wynik koncowy - zdjecia JPG w archiwum ZIP |
 
 ## Rozwiazanie
 

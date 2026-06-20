@@ -20,12 +20,12 @@ kopie/
 
 ## Pliki
 
-| Plik           | Opis                                      |
-| -------------- | ----------------------------------------- |
-| `kopie-1.zip`  | Pierwsza czesc danych wejsciowych         |
-| `kopie-2.zip`  | Druga czesc danych wejsciowych            |
-| `kopie/`       | Katalog z uporzadkowanymi kopiami         |
-| `zadanie9.sh`  | Skrypt porzadkujacy pliki wedlug daty     |
+| Plik          | Opis                                  |
+| ------------- | ------------------------------------- |
+| `kopie-1.zip` | Pierwsza czesc danych wejsciowych     |
+| `kopie-2.zip` | Druga czesc danych wejsciowych        |
+| `kopie/`      | Katalog z uporzadkowanymi kopiami     |
+| `zadanie9.sh` | Skrypt porzadkujacy pliki wedlug daty |
 
 ## Rozwiazanie
 

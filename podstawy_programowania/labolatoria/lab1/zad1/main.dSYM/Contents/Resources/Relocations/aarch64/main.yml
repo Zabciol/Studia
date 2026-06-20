@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/janek/Developer/Studia/podstawy_programowania/labolatoria/zad1/main'
+relocations:     []
+...
